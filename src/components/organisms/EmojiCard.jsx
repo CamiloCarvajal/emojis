@@ -7,7 +7,6 @@ function EmojiCard({ path, name, description }) {
         <div className="emoji-card">
             <ImageEmoji source={path} alt={name} />
             <EmojiDescription name={name} description={description}/>
-            <hr/>
         </div>
     )
 }
