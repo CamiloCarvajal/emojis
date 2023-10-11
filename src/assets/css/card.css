@@ -1,0 +1,14 @@
+.emoji-card{
+    width: 450px;
+    height: 250px;
+    border-radius: 10px;
+    border: 2px;
+    padding: 8px;
+    border-style: solid;
+    border-color: rgb(127, 197, 255);
+    background-color: aquamarine;
+    margin-bottom: 5px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
